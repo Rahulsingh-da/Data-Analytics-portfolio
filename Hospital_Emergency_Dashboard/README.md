@@ -42,6 +42,7 @@ It highlights patient volume, wait times, satisfaction scores, and departmental 
 ---
 
 ## 🖼️ Dashboard Preview
+Hospital_Emergency_Dashboard/Screenshots/HospitalDashboard.png
 
 ---
 
