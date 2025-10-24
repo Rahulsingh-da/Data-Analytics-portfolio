@@ -43,9 +43,6 @@ It highlights patient volume, wait times, satisfaction scores, and departmental 
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Preview](../Screenshots/HospitalDashboard.png)
-
-*(Add your actual image in a folder called `/Screenshots/` inside your repo and name it `HospitalDashboard.png`.)*
-
 ---
 
 ## ⚙️ How to Use
