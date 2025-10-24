@@ -42,7 +42,7 @@ It highlights patient volume, wait times, satisfaction scores, and departmental 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](../Screenshots/HospitalDashboard.png)
+
 ---
 
 ## ⚙️ How to Use
