@@ -47,7 +47,7 @@ Hospital_Emergency_Dashboard/Screenshots/HospitalDashboard.png
 ---
 
 ## ⚙️ How to Use
-1. Download `Hospital_ER_Dashboard.xlsx`
+1. Download `Raw_Data.csv`
 2. Open in Microsoft Excel
 3. Enable editing and interact with the slicers  
 4. Explore metrics by month and department
