@@ -15,8 +15,16 @@ Aspiring Data Analyst with hands-on experience in data cleaning, exploratory dat
 - Start-Up Success Prediction (Internship Project)  
   Built a machine learning model to predict startup success (F1-score: 83%) using Python and Scikit-Learn.  
 
-- Retail Sales Data Analysis (Self-Project)  
-  Analyzed retail sales data with Excel (Pivot Tables, Charts, VLOOKUP) to identify trends and patterns.  
+- Diwali Sales Analysis
+Python-based exploratory data analysis using Jupyter Notebook, identifying customer purchasing patterns based on age group, marital status, occupation, and product categories.
+
+- Stores Sales Analysis 2022
+Retail sales analysis in Excel focusing on purchase trends, customer segmentation, order status breakdown, and channel-based sales distribution by state and category.
+
+- Hospital Emergency Dashboard
+Excel-based dashboard analyzing patient flow, wait times, satisfaction scores, and departmental performance to support hospital operations and resource planning.
+
+
 ---
 ## Education
 - BCA – IFIM College, Bangalore (2022–2025)  
